@@ -7,3 +7,5 @@ N
 src/test/java/ExampleTest.java,3\f\3fa70ce18fb9cd494ed4e49e860cfb6849d19189
 Q
 !.github/workflows/gradle-test.yml,4\d\4da3c5d6b39e3fc832760bac214a5a1697ddfc84
+G
+src/main/java/Main.java,e\4\e44a8606ce010ad9b89aafdfcee2ab49afbf6d10
